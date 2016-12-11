@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+	<title>Eclipse and Java Information</title>
+	<link>http://www.nuvemapp.com.br</link>
+	<description>Eclipse and Java Information</description>
+	<language>en</language>
+	<copyright>Copyright hold by Lars Vogel</copyright>
+	<pubdate>Sun, 11 Dec 2016 11:23:36 -0200</pubdate>
+<item>
+	<title>RSSFeed</title>
+	<description>This is a description</description>
+	<link>http://www.nuvemapp.com.br</link>
+	<author>nonsense@somewhere.de (Lars Vogel)</author>
+	<guid>http://www.nuvemapp.com.br</guid>
+
+</item>
+
+</channel>
+</rss>
